@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer_web_scraping_pedrotech",
+  "version": "1.0.0",
+  "description": "\"# puppeteer_web_scraping_pedroTech\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sou7hernsaint/puppeteer_web_scraping_pedroTech.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sou7hernsaint/puppeteer_web_scraping_pedroTech/issues"
+  },
+  "homepage": "https://github.com/sou7hernsaint/puppeteer_web_scraping_pedroTech#readme",
+  "dependencies": {
+    "puppeteer": "^14.2.1"
+  }
+}
